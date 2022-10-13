@@ -9,7 +9,7 @@ const config = {
   title: "AstroDAO",
   tagline: "Dinosaurs are cool",
   url: "https://astro-dao.com",
-  baseUrl: "/",
+  baseUrl: "/dao-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
