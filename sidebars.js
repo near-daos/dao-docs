@@ -18,10 +18,10 @@ const sidebars = {
 
   // But you can create a sidebar manually
   sidebar: [
-    "intro",
-    "get-started",
+    'intro',
+    'get-started',
     {
-      Advanced: ["advanced/tips-and-tricks"],
+      Advanced: ['advanced/tips-and-tricks'],
     },
   ],
 };
