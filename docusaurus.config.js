@@ -90,6 +90,10 @@ const config = {
                 href: 'https://discord.gg/gqCfcfFw',
               },
               {
+                label: 'Telegram',
+                href: 'https://t.me/astro_near',
+              },              
+              {
                 label: 'Twitter',
                 href: 'https://twitter.com/AstroDao',
               },
@@ -98,6 +102,10 @@ const config = {
           {
             title: 'More',
             items: [
+              {
+                label: 'Events Calendar',
+                href: 'https://tockify.com/nearcommunity/',
+              },              
               {
                 label: 'GitHub',
                 href: 'https://github.com/near-daos',
