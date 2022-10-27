@@ -21,9 +21,9 @@ const sidebars = {
     'intro',
     'background',
     {
-      Background: ['background/what.md'],
-      Background: ['background/why.md'],
-      Background: ['background/near.md'],
+      Background: ['background/what'],
+      Background: ['background/why'],
+      Background: ['background/near'],
     },
    {
       Advanced: ['advanced/tips-and-tricks'],
