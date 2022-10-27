@@ -21,10 +21,14 @@ const sidebars = {
     'intro',
     {
       Background: ['background/what'],
+    },
+    {
       Background: ['background/why'],
+    },
+    {
       Background: ['background/near'],
     },
-   {
+    {
       Advanced: ['advanced/tips-and-tricks'],
     },
   ],
