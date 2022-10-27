@@ -27,6 +27,11 @@ const sidebars = {
       ],
     },
     {
+      Quickstart: [
+        'quickstart/fundamentals',
+      ],
+    },
+    {
       Advanced: ['advanced/tips-and-tricks'],
     },
   ],

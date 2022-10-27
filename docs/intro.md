@@ -5,7 +5,7 @@ slug: /
 
 # Introduction
 
-Astro is a no-code DAO-launcher on NEAR Protocol. It's home to hundreds of Decentralized Autonomous Organizations on NEAR Protocol. Under the hood Astro is powered by the Sputnik smart contracts. 
+Astro is a no-code DAO-launcher on NEAR Protocol. It's home to thousands of people organizing themselves in hundreds of Decentralized Autonomous Organizations. Under the hood Astro is powered by the Sputnik smart contracts. 
 
 ## Key Features
 
@@ -26,7 +26,7 @@ If you can't find your answer here you can try some of the channels where this d
 - [Astro Discord](https://discord.gg/CbyhcnNcbs)
 - [Astro Telegram](https://t.me/astro_near)
 
-Community leaders looking to start their own DAO can find a pleathora of resources in the [DAO to Earn Program Workbook](https://docs.google.com/spreadsheets/d/15ZYarxw_Mef4Ww7VQMmUgCFAZEPtbIgbpdrmS4qA3Qo/edit#gid=10825157&range=A1:K1). 
+Community leaders looking to start their own DAO can find a pleathora of resources in the [DAO2EARN Program Workbook](https://docs.google.com/spreadsheets/d/15ZYarxw_Mef4Ww7VQMmUgCFAZEPtbIgbpdrmS4qA3Qo/edit#gid=10825157&range=A1:K1). 
 
 These docs are intended for end users. If you're technical you can explore the [open source code on github](https://github.com/near-daos).
 
