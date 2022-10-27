@@ -19,7 +19,6 @@ const sidebars = {
   // But you can create a sidebar manually
   sidebar: [
     'intro',
-    'background',
     {
       Background: ['background/what'],
       Background: ['background/why'],
