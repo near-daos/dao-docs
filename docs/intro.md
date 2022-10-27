@@ -7,8 +7,6 @@ slug: /
 
 Astro is a no-code DAO-launcher on NEAR Protocol. It's home to hundreds of Decentralized Autonomous Organizations on NEAR Protocol. Under the hood Astro is powered by the Sputnik smart contracts. 
 
-DAOs are self-organized groups that form around common purposes. Membership, decision making, and funding are coordinated in public on a tamper proof blockchain. With Astro, DAOs will be able to retain more autonomy and, importantly, cast the net further in regards to governance through increased flexibility and the introduction of governance tokens. Groups anywhere in the world to make decisions together, collectively. 
-
 ## Key Features
 
 **DEMOCRATIC BY DEFAULT 🠞** Decisions like distributing funds, and adding members happen through an intuitive and transparent voting process.
