@@ -113,7 +113,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AstroDAO. Built with Docusaurus.`,
+        copyright: `[Creative Commons By Attribution International License](https://creativecommons.org/licenses/by/4.0/) ${new Date().getFullYear()} AstroDAO. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
