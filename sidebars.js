@@ -28,11 +28,27 @@ const sidebars = {
     },
     {
       Quickstart: [
-        'quickstart/fundamentals',
+        'quickstart/login',
+        'quickstart/assets',
+        'quickstart/proposals',
+        'quickstart/voting',
+        'quickstart/discovery',
       ],
     },
     {
-      Advanced: ['advanced/tips-and-tricks'],
+      Creation: [
+        //creation
+        //configuration
+        //adding members
+        //bounties
+      ],
+    },
+    {
+      Advanced: [
+        //interacting with dapps
+        //multicall
+        'advanced/tips-and-tricks'
+      ],
     },
   ],
 };
