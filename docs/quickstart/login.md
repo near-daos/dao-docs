@@ -16,7 +16,7 @@ If you're new to the idea of radical self reliance you may also want to read up 
 
 ![Arrow pointing to Launch App "call to action" button.](../../static/img/logging-in-01.jpg)
 
-**Step 2:** Hit "Connect Wallet" and then choose your preferred wallet. [MyNearWallet](MyNearWallet.com) is the default as of mid 2022. You will be asked to sign a transaction confirming that you are connecting your NEAR wallet.
+**Step 2:** Hit "Connect Wallet" and then choose your preferred wallet. [MyNearWallet](https://MyNearWallet.com/) is the default as of mid 2022. You will be asked to sign a transaction confirming that you are connecting your NEAR wallet.
 
 ![Highlighting the Connect Wallet button and modal overlay where users select their preferred wallet.](../../static/img/logging-in-02.jpg)
 
