@@ -35,6 +35,7 @@ const sidebars = {
         'quickstart/discovery',
       ],
     },
+    /*
     {
       Creation: [
         //creation
@@ -43,6 +44,7 @@ const sidebars = {
         //bounties
       ],
     },
+    */
     {
       Advanced: [
         //interacting with dapps
